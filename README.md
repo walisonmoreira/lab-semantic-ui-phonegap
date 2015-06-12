@@ -1,1 +1,0 @@
-# lab-semantic-ui-phonegap
