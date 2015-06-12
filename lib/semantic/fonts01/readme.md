@@ -1,0 +1,3 @@
+Criado a partir do comando:
+
+`goofoffline "https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin"`
